@@ -64,9 +64,11 @@
 project/
 ├── css/         # Contains all project styles (style.css, style.min.css)
 ├── js/          # JavaScript logic (animations, DOM interactions, etc.)
-├── img/         # Images, icons, and background graphics
+├── img/         # Images, icons, and background graphics used in the page
+├── public/      # Visual assets for README (cover, screenshots, GIF)
+├── og-image.jpg # Open Graph image for meta tags (used in previews)
+├── google12433bff2453c575.html  # Google verification file
 ├── index.html   # Main HTML file — the landing page entry point
-├── public/      # Visual assets for README and meta tags (cover, screenshots, GIFs, meta image)
 
 ---
 
