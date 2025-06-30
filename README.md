@@ -66,6 +66,7 @@ project/
 ├── js/          # JavaScript logic (animations, DOM interactions, etc.)
 ├── img/         # Images, icons, and background graphics
 ├── index.html   # Main HTML file — the landing page entry point
+├── public/      # Visual assets for README and meta tags (cover, screenshots, GIFs, meta image)
 
 ---
 
