@@ -4,9 +4,19 @@
 
 # 🌍 Travel Landing Page
 
+[🌐 Live Demo](https://yuriidano.github.io/travel/)
+
 **Travel Landing** is a modern, responsive landing page designed to showcase travel services and destinations with an engaging and user-friendly interface.
 
-[🌐 Live Demo](https://yuriidano.github.io/travel/)
+## 👨‍💻 About This Project
+
+This project was fully implemented by me as a responsive travel landing page designed to promote destinations and travel services.
+
+The design was based on an existing layout, but I built the page from scratch — including all responsive structure, animations, and section composition.
+
+The focus was on flawless implementation, clean and semantic HTML markup, BEM-based CSS, and a user-friendly interface on all screen sizes.
+
+This project demonstrates my ability to convert user interface design into modern, responsive, and ready-to-use landing pages.
 
 ---
 
